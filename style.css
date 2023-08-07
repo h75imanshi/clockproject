@@ -8,14 +8,12 @@
 /* Body style */
 body {
   background-color: #3d087b;
- overflow-y: hidden; 
-  overflow-x: hidden;
 }
 
 .container {
   width: auto;
   height: auto;
- padding-top: 6rem;
+ padding-top: 5rem;
  padding-bottom: 4rem;
  
 }
