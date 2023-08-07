@@ -8,12 +8,13 @@
 /* Body style */
 body {
   background-color: #3d087b;
+  overflow: hidden;
 }
 
 .container {
   width: auto;
   height: auto;
- padding-top: 2rem;
+ padding-top: 4rem;
  padding-bottom: 2rem;
  
 }
