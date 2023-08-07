@@ -13,7 +13,10 @@ body {
 .container {
   width: auto;
   height: auto;
- margin-top: 20px;
+ padding-inline: 10rem;
+ padding-top: 2rem;
+ padding-bottom: 2rem;
+ 
 }
 .row-1,
 .row-2 {
