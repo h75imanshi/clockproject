@@ -8,14 +8,14 @@
 /* Body style */
 body {
   background-color: #3d087b;
-  overflow: hidden;
+ overflow-y: hidden;
 }
 
 .container {
   width: auto;
   height: auto;
- padding-top: 4rem;
- padding-bottom: 2rem;
+ padding-top: 6rem;
+ padding-bottom: 4rem;
  
 }
 .row-1,
